@@ -2,7 +2,7 @@
 ## Title: GFRecruit
 ## Notes: Recruitment addon for GF
 ## Author: Andrew
-## Version: 1.2.1
+## Version: 1.2.2
 ## SavedVariables: GF_Settings, GF_Stats, GF_LastSendTime, GF_LastSender
 
 GFRecruit.lua

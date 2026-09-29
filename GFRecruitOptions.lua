@@ -262,7 +262,7 @@ function GFRecruit_CreateOptionsPanel(defaultSettings)
     InterfaceOptions_AddCategory(panel)
 end
 
-SLASH_GFRECRUIT1 = "/gf"
+SLASH_GFRECRUIT1 = "/gfr"
 SlashCmdList["GFRECRUIT"] = function()
     if not InterfaceOptionsFrame:IsShown() then
         InterfaceOptionsFrame:Show()
