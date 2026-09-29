@@ -1,8 +1,8 @@
-# PZWRecruit
+# GFRecruit
 
 Automated recruitment announcement addon for World of Warcraft (Legion 7.3.5 / Tauri WoW).
 
-> **Note**: Tailored for the needs of the **PZW (Polski Związek Wędkarski)** guild on [TauriLegion](https://tauriwow.com/).
+> **Note**: Tailored for the needs of the **Gwiezdna Flota** guild on [TauriLegion](https://tauriwow.com/).
 
 ## Features
 
@@ -12,13 +12,13 @@ Automated recruitment announcement addon for World of Warcraft (Legion 7.3.5 / T
 
 ## Installation
 
-1. Place the `PZWRecruit` folder into your World of Warcraft directory: `Interface/AddOns/`.
-2. Launch the game and ensure `PZWRecruit` is enabled in the AddOns menu.
+1. Place the `GFRecruit` folder into your World of Warcraft directory: `Interface/AddOns/`.
+2. Launch the game and ensure `GFRecruit` is enabled in the AddOns menu.
 
 ## Usage
 
-* Type `/pzw` in chat or navigate to **Interface -> AddOns -> PZW Recruitment** to configure the addon.
-* Set your preferred channel name, recruitment message, and interval.
+* Type `/gf` in chat or navigate to **Interface -> AddOns -> GF Recruitment** to configure the addon.
+* Set your preferred channel name, recruitment messages, and interval.
 * Enable the addon for your current faction (Alliance/Horde).
 
 ## Showcase

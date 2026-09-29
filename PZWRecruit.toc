@@ -1,9 +1,0 @@
-## Interface: 70300
-## Title: PZWRecruit
-## Notes: Recruitment addon for PZW
-## Author: Andrew
-## Version: 1.1.2
-## SavedVariables: PZW_Settings, PZW_Stats, PZW_LastSendTime, PZW_LastSender
-
-PZWRecruit.lua
-PZWRecruitOptions.lua
